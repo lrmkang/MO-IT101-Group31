@@ -2,9 +2,17 @@
 Employee details &amp; Payroll Calculator
 
 **Team Details**
-Myje Montañez - assigned to Sub-task 1 - Employee details presentation development & Hours worked calculation development. (All the other members also helped, giving inputs and suggestions)
-Patrick Platon - assigned to Sub-task 2 - Gross wage calculation development (All the other members also helped, giving inputs and suggestions)
-Monica Kristine Ang - Assigned to Sub-task 3 - Net wage calculation development (All the other members also helped, giving inputs and suggestions)
+Myje Montañez:
+MS2: Assigned to Sub-task 1 - Employee details presentation development & Hours worked calculation development. (All the other members also helped, giving inputs and suggestions)
+Terminal Assessment: Sub-task 1 - Running the system to test functionality and Sub-task 4 - Checking and running the system to test functionality
+
+Patrick Platon:
+Assigned to Sub-task 2 - Gross wage calculation development (All the other members also helped, giving inputs and suggestions)
+Terminal Assessment: Sub-task 2 -  Doing QA testing -  Testing the system letting the Devs and Users test it to find any flaws both don't see and Sub-task 4 - Checking and running the system to test functionality
+
+Monica Kristine Ang:
+Assigned to Sub-task 3 - Net wage calculation development (All the other members also helped, giving inputs and suggestions)
+Terminal Assessment: Sub-task 3 - Debugging based on feedback and Sub-task 4 - Checking and running the system to test functionality
 
 **Program Details**
 The MotorPH Payroll System is a Java console program that processes employee payroll using data from CSV files. The system first asks the user to log in using a username and password. The two valid users are employee and payroll_staff. If the login credentials are incorrect, the program ends.
@@ -19,5 +27,8 @@ The program uses the csv files for data and calculation.
 
 **Project Plan Link**
 Link to our project plan: https://docs.google.com/spreadsheets/d/1O_5SqjPfWvjiXFwDy37Y99pVjG_9sR4hFFWj0_JxQik/edit?usp=sharing
+
+**Test Document Link**
+Link to our QA Test Document: https://docs.google.com/spreadsheets/d/1z6NiXCEWPdu1B2QIspjvI-kiVs5peOldCdB7pPlLMNs/edit?usp=sharing
 
 
